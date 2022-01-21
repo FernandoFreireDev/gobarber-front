@@ -48,7 +48,9 @@
           "tsx": "never"
         }
      ],
-     "react/function-component-definition": [2, { "namedComponents": "arrow-function" }]
+     "react/function-component-definition": [2, { "namedComponents": "arrow-function" }],
+     "import/prefer-default-export": "off",
+     "anchor-is-valid": "off"
     },
     "settings": {
       "import/resolver": {
